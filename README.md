@@ -1,6 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
-👩‍💻 Hi, I'm Nazia Hasan!<br>🚀 Passionate about web development | Creative thinker | Lifelong learner<br>🔧 I love building interactive websites, experimenting with new tech stacks, and solving real-world problems through code.<br>📂 Projects include games, portfolio sites, and smart automation tools.<br>🌱 Currently exploring: React.js | Node.js | AI integrations | UI/UX<br>📫 Let’s connect and collaborate: www.linkedin.com/in/nazia-hasan-b19a60373 | Email: hnazia872@gmail.com<br>
+## 💫 About Me:
+👩‍💻 Hi, I'm Najia Hasan!<br>🚀 Passionate about web development | Creative thinker | Lifelong learner<br>🔧 I love building interactive websites, experimenting with new tech stacks, and solving real-world problems through code.<br>📂 Projects include games, portfolio sites, and smart automation tools.<br>🌱 Currently exploring: React.js | Node.js | AI integrations | UI/UX<br>📫 Let’s connect and collaborate.
 
 
 ## 🌐 Socials:
